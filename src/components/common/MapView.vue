@@ -30,7 +30,8 @@ export default {
         map: map,
         zoom: 5,
       });
-      view.ui.components = [];
+      console.log(view);
+      // view.ui.components = []; //去掉图标和水印
     },
   },
 };
