@@ -7,5 +7,6 @@ module.exports = {
       https: false,
       disableHostCheck: true,
       open: false // 配置自动启动浏览器
-    }
+    },
+    publicPath:'./'
 }
